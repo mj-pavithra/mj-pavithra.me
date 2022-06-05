@@ -1,0 +1,27 @@
+body{
+  background-color: #f0d9da;
+}
+
+.div1{
+  height:800px ;
+  width:800px;
+  background-color: #213e3b;
+}
+
+.div2{
+  height:600px ;
+  width:600px;
+  background-color: #41aea9;
+}
+
+.div3{
+  height:400px ;
+  width:400px;
+  background-color: #a6f6f1;
+}
+
+.div4{
+  height: 200px;
+  width:200px;
+  background-color: #e8ffff;
+}

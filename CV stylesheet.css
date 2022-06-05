@@ -1,0 +1,64 @@
+body{
+  background-color: #F1F0C0;
+}
+
+.top_header{
+  text-align: center;
+  color: #F806CC;
+  line-height: 2
+}
+ hr{
+
+   width: 80%}
+
+h1{
+  color: #AB46D2;
+  font-family: cursive;
+ }
+
+ h2{
+  color: #5534A5;
+ }
+
+.left_top{
+
+  margin: 10px 30px 10px 10px;
+  width: 50%;
+  float: left;
+
+}
+
+.profile_pic{
+  margin-left: 25%;
+  margin-bottom: 5%;
+  height: 340px;
+  border-radius: 170px;
+}
+
+.right_top{
+  position: absolute;
+  right: 0px;
+  width: 50%;
+  margin: 50px auto 100px auto;
+  font-size: 2.8rem;
+  
+
+}
+
+
+.right{
+position: absolute;
+right: 0px;
+top: 420px;
+
+  width: 50%;
+
+}
+
+.left{
+  position: absolute;
+  left: 0px;
+  top: 420px;
+  margin-left: 3%;
+  width: 45%;
+}
